@@ -1,0 +1,284 @@
+[
+    {
+      "name": "Punjab Desi Cow Ghee(200ml)",
+      "slug": "a2-cow-ghee-200ml",
+      "category": "cow",
+      "type": "ghee",
+      "image": "/images/ghee_photo/image2.JPEG",
+      "size": "200 ml",
+      "price": 150,
+      "brand": "Punjab Desi Ghee",
+      "rating": 4.5,
+      "numReviews": 3,
+      "countInStock": 20,
+      "description": "Indulge in the authentic taste and numerous health benefits of our Punjab Desi Ghee, made from the milk of grass-fed Indian cows. Our ghee is meticulously crafted using age-old traditional methods, ensuring each jar is brimming with purity and goodness.",
+      "isFeatured": true,
+      "banner": "/images/banner2.jpg",
+      "images": [
+        {
+          "url": "/images/ghee_photo/image2.JPEG",
+          "altText": "Alt text 1"
+        },
+        {
+          "url": "/images/ghee_photo/image4.JPEG",
+          "altText": "Alt text 1"
+        },
+        {
+          "url": "/images/ghee_photo/image5.JPEG",
+          "altText": "Alt text 1"
+        }
+      ],
+      "source": "Punjab Desi Ghee",
+      "making": "Punjab Desi Ghee",
+      "origin_country": "India"
+    },
+    {
+      "name": "Punjab Desi Cow Ghee(500ml)",
+      "slug": "a2-cow-ghee-500ml",
+      "category": "cow",
+      "type": "ghee",
+      "image": "/images/ghee_photo/image13.JPEG",
+      "size": "500 ml",
+      "price": 320,
+      "brand": "Punjab Desi Ghee",
+      "rating": 4.5,
+      "numReviews": 3,
+      "countInStock": 20,
+      "description": "Indulge in the authentic taste and numerous health benefits of our Punjab Desi Ghee, made from the milk of grass-fed Indian cows. Our ghee is meticulously crafted using age-old traditional methods, ensuring each jar is brimming with purity and goodness.",
+      "isFeatured": true,
+      "banner": "/images/banner2.jpg",
+      "images": [
+        {
+          "url": "/images/ghee_photo/image13.JPEG",
+          "altText": "Alt text 1"
+        }
+      ],
+      "source": "Punjab Desi Ghee",
+      "making": "Punjab Desi Ghee",
+      "origin_country": "India"
+    },
+    {
+      "name": "Punjab Desi Cow Ghee(1L)",
+      "slug": "a2-cow-ghee-1L",
+      "category": "cow",
+      "type": "ghee",
+      "image": "/images/ghee_photo/image2.JPEG",
+      "size": "1L",
+      "price": 630,
+      "brand": "Punjab Desi Ghee",
+      "rating": 4.5,
+      "numReviews": 3,
+      "countInStock": 20,
+      "description": "Indulge in the authentic taste and numerous health benefits of our Punjab Desi Ghee, made from the milk of grass-fed Indian cows. Our ghee is meticulously crafted using age-old traditional methods, ensuring each jar is brimming with purity and goodness.",
+      "isFeatured": true,
+      "banner": "/images/banner2.jpg",
+      "images": [
+        {
+          "url": "/images/ghee_photo/image2.JPEG",
+          "altText": "Alt text 1"
+        },
+        {
+          "url": "/images/ghee_photo/image5.JPEG",
+          "altText": "Alt text 1"
+        },
+        {
+          "url": "/images/ghee_photo/image9.JPEG",
+          "altText": "Alt text 1"
+        }
+      ],
+      "source": "Punjab Desi Ghee",
+      "making": "Punjab Desi Ghee",
+      "origin_country": "India"
+    },
+    {
+      "name": "Punjab Desi Cow Ghee(5kg)",
+      "slug": "a2-cow-ghee-5kg",
+      "category": "cow",
+      "type": "ghee",
+      "image": "/images/ghee_photo/image14.jpg",
+      "size": "5kg",
+      "price": 3300,
+      "brand": "Punjab Desi Ghee",
+      "rating": 4.5,
+      "numReviews": 3,
+      "countInStock": 20,
+      "description": "Indulge in the authentic taste and numerous health benefits of our Punjab Desi Ghee, made from the milk of grass-fed Indian cows. Our ghee is meticulously crafted using age-old traditional methods, ensuring each jar is brimming with purity and goodness.",
+      "isFeatured": true,
+      "banner": "/images/banner2.jpg",
+      "images": [
+        {
+          "url": "/images/ghee_photo/image14.jpg",
+          "altText": "Alt text 1"
+        },
+        {
+          "url": "/images/ghee_photo/image15.jpg",
+          "altText": "Alt text 1"
+        }
+      ],
+      "source": "Punjab Desi Ghee",
+      "making": "Punjab Desi Ghee",
+      "origin_country": "India"
+    },
+    {
+      "name": "Punjab Desi Cow Ghee(15kg)",
+      "slug": "a2-cow-ghee-15kg",
+      "category": "cow",
+      "type": "ghee",
+      "image": "/images/ghee_photo/image16.jpg",
+      "size": "15kg",
+      "price": 10800,
+      "brand": "Punjab Desi Ghee",
+      "rating": 4.5,
+      "numReviews": 3,
+      "countInStock": 20,
+      "description": "Indulge in the authentic taste and numerous health benefits of our Punjab Desi Ghee, made from the milk of grass-fed Indian cows. Our ghee is meticulously crafted using age-old traditional methods, ensuring each jar is brimming with purity and goodness.",
+      "isFeatured": true,
+      "banner": "/images/banner2.jpg",
+      "images": [
+        {
+          "url": "/images/ghee_photo/image16.jpg",
+          "altText": "Alt text 1"
+        },
+        {
+          "url": "/images/ghee_photo/image17.jpg",
+          "altText": "Alt text 1"
+        }
+      ],
+      "source": "Punjab Desi Ghee",
+      "making": "Punjab Desi Ghee",
+      "origin_country": "India"
+    },
+    {
+      "name": "Punjab Desi Buffalo Ghee(200ml)",
+      "slug": "a2-buffalo-ghee-200ml",
+      "category": "buffalo",
+      "type": "ghee",
+      "image": "/images/ghee_photo/image11.JPG",
+      "size": "200 ml",
+      "price": 130,
+      "brand": "Punjab Desi Ghee",
+      "rating": 4.5,
+      "numReviews": 3,
+      "countInStock": 20,
+      "description": "Savor the deep, creamy flavor of our Punjab Desi Buffalo Ghee, crafted from the milk of grass-fed Indian buffaloes. Made using traditional methods, our ghee promises purity and quality in every jar.",
+      "isFeatured": true,
+      "banner": "/images/banner2.jpg",
+      "images": [
+        {
+          "url": "/images/ghee_photo/image11.JPG",
+          "altText": "Alt text 1"
+        }
+      ],
+      "source": "Punjab Desi Ghee",
+      "making": "Punjab Desi Ghee",
+      "origin_country": "India"
+    },
+    {
+      "name": "Punjab Desi Buffalo Ghee(500ml)",
+      "slug": "a2-buffalo-ghee-500ml",
+      "category": "buffalo",
+      "type": "ghee",
+      "image": "/images/ghee_photo/image11.JPG",
+      "size": "500 ml",
+      "price": 300,
+      "brand": "Punjab Desi Ghee",
+      "rating": 4.5,
+      "numReviews": 3,
+      "countInStock": 20,
+      "description": "Savor the deep, creamy flavor of our Punjab Desi Buffalo Ghee, crafted from the milk of grass-fed Indian buffaloes. Made using traditional methods, our ghee promises purity and quality in every jar.",
+      "isFeatured": true,
+      "banner": "/images/banner2.jpg",
+      "images": [
+        {
+          "url": "/images/ghee_photo/image11.JPG",
+          "altText": "Alt text 1"
+        }
+      ],
+      "source": "Punjab Desi Ghee",
+      "making": "Punjab Desi Ghee",
+      "origin_country": "India"
+    },
+    {
+      "name": "Punjab Desi Buffalo Ghee(1L)",
+      "slug": "a2-buffalo-ghee-1L",
+      "category": "buffalo",
+      "type": "ghee",
+      "image": "/images/ghee_photo/image8.JPG",
+      "size": "1L",
+      "price": 610,
+      "brand": "Punjab Desi Ghee",
+      "rating": 4.5,
+      "numReviews": 3,
+      "countInStock": 20,
+      "description": "Savor the deep, creamy flavor of our Punjab Desi Buffalo Ghee, crafted from the milk of grass-fed Indian buffaloes. Made using traditional methods, our ghee promises purity and quality in every jar.",
+      "isFeatured": true,
+      "banner": "/images/banner2.jpg",
+      "images": [
+        {
+          "url": "/images/ghee_photo/image8.JPG",
+          "altText": "Alt text 1"
+        }
+      ],
+      "source": "Punjab Desi Ghee",
+      "making": "Punjab Desi Ghee",
+      "origin_country": "India"
+    },
+    {
+      "name": "Punjab Desi Buffalo Ghee(5Kg)",
+      "slug": "a2-buffalo-ghee-5Kg",
+      "category": "buffalo",
+      "type": "ghee",
+      "image": "/images/ghee_photo/image14.jpg",
+      "size": "5Kg",
+      "price": 3150,
+      "brand": "Punjab Desi Ghee",
+      "rating": 4.5,
+      "numReviews": 3,
+      "countInStock": 20,
+      "description": "Savor the deep, creamy flavor of our Punjab Desi Buffalo Ghee, crafted from the milk of grass-fed Indian buffaloes. Made using traditional methods, our ghee promises purity and quality in every jar.",
+      "isFeatured": true,
+      "banner": "/images/banner2.jpg",
+      "images": [
+        {
+          "url": "/images/ghee_photo/image14.jpg",
+          "altText": "Alt text 1"
+        },
+        {
+          "url": "/images/ghee_photo/image14.jpg",
+          "altText": "Alt text 1"
+        }
+      ],
+      "source": "Punjab Desi Ghee",
+      "making": "Punjab Desi Ghee",
+      "origin_country": "India"
+    },
+    {
+      "name": "Punjab Desi Buffalo Ghee(15Kg)",
+      "slug": "a2-buffalo-ghee-15kg",
+      "category": "buffalo",
+      "type": "ghee",
+      "image": "/images/ghee_photo/image16.jpg",
+      "size": "15kg",
+      "price": 10500,
+      "brand": "Punjab Desi Ghee",
+      "rating": 4.5,
+      "numReviews": 3,
+      "countInStock": 20,
+      "description": "Savor the deep, creamy flavor of our Punjab Desi Buffalo Ghee, crafted from the milk of grass-fed Indian buffaloes. Made using traditional methods, our ghee promises purity and quality in every jar.",
+      "isFeatured": true,
+      "banner": "/images/banner2.jpg",
+      "images": [
+        {
+          "url": "/images/ghee_photo/image16.jpg",
+          "altText": "Alt text 1"
+        },
+        {
+          "url": "/images/ghee_photo/image17.jpg",
+          "altText": "Alt text 1"
+        }
+      ],
+      "source": "Punjab Desi Ghee",
+      "making": "Punjab Desi Ghee",
+      "origin_country": "India"
+    }
+  ]

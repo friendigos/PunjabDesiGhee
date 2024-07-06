@@ -1,0 +1,407 @@
+[
+    {
+        "id": "a2-cow-ghee-200ml",
+        "category": "cow",
+        "type": "ghee",
+        "name": "Punjab Desi Cow Ghee(200ml)",
+        "gender": "dog",
+        "new": false,
+        "sale": false,
+        "rate": 5,
+        "price": 150,
+        "originPrice": 26,
+        "brand": "american",
+        "sold": 24,
+        "quantity": 100,
+        "quantityPurchase": 1,
+        "sizes": [
+            "200",
+            "300",
+            "500"
+        ],
+        "variation": [
+            {
+                "color": "200ml",
+                "colorCode": "#DB4444",
+                "colorImage": "/images/ghee_photo/image2.JPEG",
+                "image": "/images/ghee_photo/image2.JPEG"
+            }
+        ],
+        "thumbImage": [
+            "/images/ghee_photo/image4.JPEG",
+            "/images/ghee_photo/image5.JPEG"
+        ],
+        "images": [
+            "/images/ghee_photo/image4.JPEG",
+            "/images/ghee_photo/image5.JPEG"
+        ],
+        "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+        "action": "quick shop",
+        "slug": "pets"
+    },
+    {
+        "id": "a2-cow-ghee-500ml",
+        "category": "cow",
+        "type": "ghee",
+        "name": "Punjab Desi Cow Ghee (500ml)",
+        "gender": "cat",
+        "new": false,
+        "sale": false,
+        "rate": 5,
+        "price": 320 ,
+        "originPrice": 22,
+        "brand": "purina",
+        "sold": 16,
+        "quantity": 80,
+        "quantityPurchase": 1,
+        "sizes": [
+            "100",
+            "200",
+            "300"
+        ],
+        "variation": [
+            {
+                "color": "500ml",
+                "colorCode": "#DB4444",
+                "colorImage": "/images/ghee_photo/image13.JPEG",
+                "image": "/images/ghee_photo/image13.JPEG"
+            }
+        ],
+        "thumbImage": [
+            "/images/ghee_photo/image13.JPEG",
+            "/images/ghee_photo/image13.JPEG"
+        ],
+        "images": [
+            "/images/ghee_photo/image13.JPEG",
+            "/images/ghee_photo/image13.JPEG"
+        ],
+        "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+        "action": "quick shop",
+        "slug": "pets"
+    },
+    {
+        "id": "a2-cow-ghee-1L",
+        "category": "cow",
+        "type": "ghee",
+        "name": "Punjab Desi Cow Ghee(1L)",
+        "gender": "dog",
+        "new": false,
+        "sale": false,
+        "rate": 5,
+        "price": 630,
+        "originPrice": 140,
+        "brand": "corgi",
+        "sold": 12,
+        "quantity": 40,
+        "quantityPurchase": 1,
+        "sizes": [
+            "2",
+            "3"
+        ],
+        "variation": [
+            {
+                "color": "500ml",
+                "colorCode": "#DB4444",
+                "colorImage": "/images/ghee_photo/image2.JPEG",
+                "image": "/images/ghee_photo/image2.JPEG"
+            }
+        ],
+        "thumbImage": [
+            "/images/ghee_photo/image2.JPEG",
+            "/images/ghee_photo/image5.JPEG"
+        ],
+        "images": [
+            "/images/ghee_photo/image2.JPEG",
+            "/images/ghee_photo/image9.JPEG",
+            "/images/ghee_photo/image5.JPEG"
+        ],
+        "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+        "action": "add to cart",
+        "slug": "pets"
+    },
+    {
+        "id": "a2-cow-ghee-5kg",
+        "category": "cow",
+        "type": "ghee",
+        "name": "Punjab Desi Cow Ghee (5Kg)",
+        "gender": "dog",
+        "new": false,
+        "sale": false,
+        "rate": 5,
+        "price": 3300,
+        "originPrice": 140,
+        "brand": "petoutfit",
+        "sold": 24,
+        "quantity": 80,
+        "quantityPurchase": 1,
+        "sizes": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "variation": [
+            {
+                "color": "500ml",
+                "colorCode": "#DB4444",
+                "colorImage": "/images/ghee_photo/image14.JPEG",
+                "image": "/images/ghee_photo/image14.JPEG"
+            }
+        ],
+        "thumbImage": [
+            "/images/ghee_photo/image14.jpg",
+            "/images/ghee_photo/image15.jpg"
+        ],
+        "images": [
+            "/images/ghee_photo/image14.jpg",
+            "/images/ghee_photo/image15.jpg"
+        ],
+        "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+        "action": "add to cart",
+        "slug": "pets"
+    },
+    {
+        "id": "a2-cow-ghee-15kg",
+        "category": "cow",
+        "type": "ghee",
+        "name": "Punjab Desi Cow Ghee (15kg)",
+        "gender": "dog",
+        "new": false,
+        "sale": false,
+        "rate": 5,
+        "price": 10800,
+        "originPrice": 26,
+        "brand": "american",
+        "sold": 24,
+        "quantity": 100,
+        "quantityPurchase": 1,
+        "sizes": [
+            "200",
+            "300",
+            "500"
+        ],
+        "variation": [
+            {
+                "color": "500ml",
+                "colorCode": "#DB4444",
+                "colorImage": "/images/ghee_photo/image16.jpg",
+                "image": "/images/ghee_photo/image16.jpg"
+            }
+        ],
+        "thumbImage": [
+            "/images/ghee_photo/image16.jpg",
+            "/images/ghee_photo/image17.jpg"
+        ],
+        "images": [
+            "/images/ghee_photo/image16.jpg",
+            "/images/ghee_photo/image17.jpg"
+        ],
+        "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+        "action": "quick shop",
+        "slug": "pets"
+    },
+    {
+        "id": "a2-buffalo-ghee-200ml",
+        "category": "buffalo",
+        "type": "ghee",
+        "name": "Punjab Desi Buffalo Ghee(200ml)",
+        "gender": "cat",
+        "new": false,
+        "sale": false,
+        "rate": 5,
+        "price": 130,
+        "originPrice": 22,
+        "brand": "purina",
+        "sold": 16,
+        "quantity": 80,
+        "quantityPurchase": 1,
+        "sizes": [
+            "100",
+            "200",
+            "300"
+        ],
+        "variation": [
+            {
+                "color": "500ml",
+                "colorCode": "#DB4444",
+                "colorImage": "/images/ghee_photo/image11.JPG",
+                "image": "/images/ghee_photo/image11.JPG"
+            }
+        ],
+        "thumbImage": [
+            "/images/ghee_photo/image11.JPG",
+            "/images/ghee_photo/image11.JPG"
+        ],
+        "images": [
+            "/images/ghee_photo/image11.JPG",
+            "/images/ghee_photo/image11.JPG"
+        ],
+        "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+        "action": "add to cart",
+        "slug": "pets"
+    },
+    {
+        "id": "a2-buffalo-ghee-500ml",
+        "category": "buffalo",
+        "type": "ghee",
+        "name": "Punjab Desi Buffalo Ghee(500ml)",
+        "gender": "cat",
+        "new": false,
+        "sale": false,
+        "rate": 5,
+        "price": 300,
+        "originPrice": 140,
+        "brand": "bedpet",
+        "sold": 12,
+        "quantity": 40,
+        "quantityPurchase": 1,
+        "sizes": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "variation": [
+            {
+                "color": "500ml",
+                "colorCode": "#DB4444",
+                "colorImage": "/images/ghee_photo/image11.JPG",
+                "image": "/images/ghee_photo/image11.JPG"
+            }
+        ],
+        "thumbImage": [
+            "/images/ghee_photo/image11.JPG",
+            "/images/ghee_photo/image11.JPG"
+        ],
+        "images": [
+            "/images/ghee_photo/image11.JPG",
+            "/images/ghee_photo/image11.JPG"
+        ],
+        "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+        "action": "add to cart",
+        "slug": "pets"
+    },
+    {
+        "id": "a2-buffalo-ghee-1L",
+        "category": "buffalo",
+        "type": "ghee",
+        "name": "Punjab Desi Buffalo Ghee(1L)",
+        "gender": "cat",
+        "new": false,
+        "sale": false,
+        "rate": 5,
+        "price": 610,
+        "originPrice": 22,
+        "brand": "petoutfit",
+        "sold": 24,
+        "quantity": 80,
+        "quantityPurchase": 1,
+        "sizes": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "variation": [
+            {
+                "color": "500ml",
+                "colorCode": "#DB4444",
+                "colorImage": "/images/ghee_photo/image8.JPG",
+                "image": "/images/ghee_photo/image8.JPG"
+            }
+        ],
+        "thumbImage": [
+            "/images/ghee_photo/image8.JPG",
+            "/images/ghee_photo/image8.JPG"
+        ],
+        "images": [
+            "/images/ghee_photo/image8.JPG",
+            "/images/ghee_photo/image8.JPG"
+        ],
+        "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+        "action": "quick shop",
+        "slug": "pets"
+    },
+    {
+        "id": "a2-buffalo-ghee-5Kg",
+        "category": "buffalo",
+        "type": "ghee",
+        "name": "Punjab Desi Buffalo Ghee(5kg)",
+        "gender": "dog",
+        "new": false,
+        "sale": false,
+        "rate": 5,
+        "price": 3150,
+        "originPrice": 109,
+        "brand": "bedpet",
+        "sold": 12,
+        "quantity": 40,
+        "quantityPurchase": 1,
+        "sizes": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "variation": [
+            {
+                "color": "500ml",
+                "colorCode": "#DB4444",
+                "colorImage": "/images/ghee_photo/image14.jpg",
+                "image": "/images/ghee_photo/image14.jpg"
+            }
+        ],
+        "thumbImage": [
+            "/images/ghee_photo/image14.jpg",
+            "/images/ghee_photo/image15.jpg"
+        ],
+        "images": [
+            "/images/ghee_photo/image14.jpg",
+            "/images/ghee_photo/image15.jpg"
+        ],
+        "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+        "action": "add to cart",
+        "slug": "pets"
+    },
+    {
+        "id": "a2-buffalo-ghee-15Kg",
+        "category": "buffalo",
+        "type": "ghee",
+        "name": "Punjab Desi Buffalo Ghee(15kg)",
+        "gender": "dog",
+        "new": false,
+        "sale": false,
+        "rate": 5,
+        "price": 10500,
+        "originPrice": 112,
+        "brand": "bedpet",
+        "sold": 12,
+        "quantity": 40,
+        "quantityPurchase": 1,
+        "sizes": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "variation": [
+            {
+                "color": "500ml",
+                "colorCode": "#DB4444",
+                "colorImage": "/images/ghee_photo/image16.jpg",
+                "image": "/images/ghee_photo/image16.jpg"
+            }
+        ],
+        "thumbImage": [
+            "/images/ghee_photo/image16.jpg",
+            "/images/ghee_photo/image17.jpg"
+        ],
+        "images": [
+            "/images/ghee_photo/image16.jpg",
+            "/images/ghee_photo/image17.jpg"
+        ],
+        "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+        "action": "add to cart",
+        "slug": "pets"
+    }
+]

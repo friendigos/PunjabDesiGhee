@@ -1,0 +1,26 @@
+.product_name{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.product_price{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 8px;
+}
+
+.choose_us_image{
+    height: 10% !important;
+}
+
+.font_color{
+    color:black;
+    font-size: 18px;
+    line-height: normal;
+}
+
+.heading_choose_us{
+    font-size: 20px;
+    font-weight: 700;
+    color: #006a4e;
+}
