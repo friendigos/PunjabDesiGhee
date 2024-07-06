@@ -20,12 +20,23 @@ const Sidebar = () => {
       <li>
         <a
           onClick={closeDrower}
-          href="/products"
+          href="/"
           className={`${
-            pathname == '/products' ? 'text-[#fbbf24]' : 'text-[#1b2528]'
+            pathname == '/' ? 'text-[#fbbf24]' : 'text-[#1b2528]'
           } font-bold mr-6`}
         >
-          Products
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          onClick={closeDrower}
+          href="/products"
+          className={`${
+            pathname == '/our-story' ? 'text-[#fbbf24]' : 'text-[#1b2528]'
+          } font-bold mr-6`}
+        >
+          Our Products
         </a>
       </li>
       <li>
@@ -33,10 +44,10 @@ const Sidebar = () => {
           onClick={closeDrower}
           href="/our-story"
           className={`${
-            pathname == '/our-story' ? 'text-[#fbbf24]' : 'text-[#1b2528]'
+            pathname == '/contact-us' ? 'text-[#fbbf24]' : 'text-[#1b2528]'
           } font-bold mr-6`}
         >
-          Our Story
+          About Us
         </a>
       </li>
       <li>
@@ -44,21 +55,10 @@ const Sidebar = () => {
           onClick={closeDrower}
           href="/contact-us"
           className={`${
-            pathname == '/contact-us' ? 'text-[#fbbf24]' : 'text-[#1b2528]'
-          } font-bold mr-6`}
-        >
-          Contact Us
-        </a>
-      </li>
-      <li>
-        <a
-          onClick={closeDrower}
-          href="/ghee-making"
-          className={`${
             pathname == '/ghee-making' ? 'text-[#fbbf24]' : 'text-[#1b2528]'
           } font-bold mr-6`}
         >
-          Ghee Making Process
+          Contact Us
         </a>
       </li>
     </ul>
